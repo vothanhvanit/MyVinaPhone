@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="do_hong">#F44336</color>
+    <color name="mau_do">#C02E23</color>
+    <color name="mau_grey">#094B45</color>
+    <color name="xanh_luc">#0B0958</color>
+    <color name="xanh_la_cay">#31C537</color>
+    <color name="blue">#2196F3</color>
+    <color name="mau_cam">#FF9800</color>
+</resources>

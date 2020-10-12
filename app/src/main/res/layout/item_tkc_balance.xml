@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/tv_stt"
+        android:gravity="center"
+        android:layout_marginBottom="10dp"
+        android:textColor="@color/mau_do"
+        android:textSize="30sp"
+        android:text="1"
+        android:layout_width="50dp"
+        android:layout_height="150dp"/>
+
+    <LinearLayout
+        android:layout_marginBottom="10dp"
+        android:orientation="vertical"
+        android:layout_marginLeft="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/tv_sdt"
+            android:textSize="18sp"
+            android:textColor="@color/do_hong"
+            android:text="0916487007"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/tv_balance_tkc"
+            android:textSize="15sp"
+            android:textStyle="bold"
+            android:text="Số dư TKC: 50000đ"
+            android:textColor="#18619C"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/tv_total_tkc_new_1"
+            android:textSize="15sp"
+            android:textColor="#AC09BD"
+            android:text="Tiêu dùng TKC: 2.000đ"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/tv_total_tkc_new_2"
+            android:textSize="15sp"
+            android:textColor="#30090E"
+            android:text="Tiêu dùng TKC: 2.000đ"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/tv_total_tkc_new_3"
+            android:textSize="15sp"
+            android:textColor="@color/mau_grey"
+            android:text="Tiêu dùng TKC: 2.000đ"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:id="@+id/tv_total_tkc_new_4"
+            android:textSize="15sp"
+            android:textColor="@color/mau_do"
+            android:text="Tiêu dùng TKC: 2.000đ"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/tv_tkc_average"
+            android:textSize="15sp"
+            android:textColor="@color/xanh_luc"
+            android:textStyle="bold"
+            android:text="TKC Trung Bình: 2.000đ"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/tv_total_data"
+            android:textSize="15sp"
+            android:textColor="@color/xanh_la_cay"
+            android:text="Tiêu dùng Data"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/tv_smartphone"
+            android:textSize="15sp"
+            android:textColor="@color/mau_cam"
+            android:text="Địa thoại: Sam sung S10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/tv_goi_dang_su_dung"
+            android:textSize="15sp"
+            android:textStyle="bold"
+            android:textColor="@color/blue"
+            android:text="Gói cước đang sử dụng: "
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/tv_diaban"
+            android:textSize="15sp"
+            android:textColor="@color/do_hong"
+            android:text="Địa bàn hoạt động: "
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/tv_goi_recommend"
+            android:textSize="15sp"
+            android:textStyle="bold"
+            android:textColor="@color/xanh_luc"
+            android:text="Gói có thể đăng ký: "
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+</LinearLayout>

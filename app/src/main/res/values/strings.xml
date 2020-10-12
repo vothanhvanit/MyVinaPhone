@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MyVinaPhone</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="ten_dang_nhap">Tên đăng nhập</string>
+    <string name="mat_khau">Mật khẩu</string>
+    <string name="header_1">Header Text</string>
+    <string name="login">Login</string>
+
+    <string name="search_balance_tkc">Tra cứu số dư Tài khoản</string>
+    <string name="sdt_full_hint">Nhập SĐT để tra cứu. VD: 84919012345</string>
+    <string name="search_phone">Tìm số ngoại mạng trong tỉnh</string>
+    <string name="search_goi_tt_sang_ts">Tra cứu gói cước chuyển từ TT sang TS</string>
+    <string name="menu_tra_cuu_doi_sim_4g">Tra cứu gói cước khi đổi SIM 4G</string>
+    <string name="logout">Đăng xuất</string>
+</resources>

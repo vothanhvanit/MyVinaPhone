@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="@string/search_phone" android:id="@+id/menu_search_so_ngoai_mang"/>
+    <item android:title="@string/search_balance_tkc" android:id="@+id/menu_tra_cuu_balance_tkc"/>
+    <item android:title="@string/search_goi_tt_sang_ts" android:id="@+id/menu_tra_cuu_goi_tra_sau"/>
+    <item android:title="@string/menu_tra_cuu_doi_sim_4g" android:id="@+id/menu_tra_cuu_doi_sim_4g"/>
+    <item android:title="@string/logout" android:id="@+id/logout" />
+</menu>
